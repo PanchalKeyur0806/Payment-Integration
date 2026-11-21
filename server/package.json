@@ -23,6 +23,7 @@
     "typescript": "^7.0.2"
   },
   "devDependencies": {
+    "@faker-js/faker": "^10.6.0",
     "@types/express": "^5.0.6",
     "@types/node": "^26.6.6"
   }
