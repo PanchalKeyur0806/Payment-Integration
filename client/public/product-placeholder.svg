@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#f1f5f9"/>
+  <path d="M296 211h208a24 24 0 0 1 24 24v146a24 24 0 0 1-24 24H296a24 24 0 0 1-24-24V235a24 24 0 0 1 24-24Z" stroke="#94a3b8" stroke-width="12"/>
+  <path d="m272 263 64-52 62 76 43-44 87 90" stroke="#94a3b8" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <circle cx="465" cy="266" r="20" fill="#cbd5e1"/>
+  <text x="400" y="472" fill="#64748b" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">Product image unavailable</text>
+</svg>
